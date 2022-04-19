@@ -5,6 +5,9 @@ Building API using  fastapi
 
 #code
 
+```
+
+
 from fastapi import FastAPI
 # from core.config import settings
 from typing import Optional
@@ -39,3 +42,6 @@ async def your_query(query: query):
 
 
 handler = Mangum(app)
+
+
+```
