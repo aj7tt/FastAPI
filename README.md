@@ -1,7 +1,10 @@
 # FastAPI
 Building API using  fastapi 
 
+```
+https://rbhcz0ivuh.execute-api.ap-south-1.amazonaws.com/ajit/intro
 
+```
 
 #code
 
