@@ -1,7 +1,7 @@
 ## Microservice in Python using FastAPI
 
 
-<img  align="left" width="100" height="100" alt="image" src="https://user-images.githubusercontent.com/67835881/183548072-29fe7581-d7a2-43cb-96fe-fadf98e927f0.png">
+<img  width="700"  alt="image" src="https://user-images.githubusercontent.com/67835881/183548072-29fe7581-d7a2-43cb-96fe-fadf98e927f0.png">
 - #python #fastapi #restapi #microservices
 
 
