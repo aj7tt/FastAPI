@@ -1,3 +1,10 @@
+## Microservice in Python using FastAPI
+- #python #fastapi #restapi #microservices
+
+<img width="601" alt="image" src="https://user-images.githubusercontent.com/67835881/183548072-29fe7581-d7a2-43cb-96fe-fadf98e927f0.png">
+
+
+
 # FastAPI
 Building API using  fastapi 
 
